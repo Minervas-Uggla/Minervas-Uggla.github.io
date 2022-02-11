@@ -2,7 +2,7 @@
 layout: post
 title: Kim Stanley Robinson - The Ministry for the Future 
 author: Minervas Uggla
-category: anteckningar
+category: recension 
 ---
 
 
